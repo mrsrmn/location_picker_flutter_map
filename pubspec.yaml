@@ -17,7 +17,7 @@ dependencies:
   url_launcher: ^6.2.1
   flutter_map_location_marker:
     git:
-      url: https://github.com/dariocavada/flutter_map_location_marker.git
+      url: https://github.com/tlserver/flutter_map_location_marker.git
   flutter_map_cancellable_tile_provider: ^3.0.0
   
 dev_dependencies:
